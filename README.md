@@ -7,3 +7,6 @@
 Задать почту
 `git config --global user.email "email@yandex.ru"`
 
+
+Сгенерировать ssh-ключ
+`ssh-keygen`
