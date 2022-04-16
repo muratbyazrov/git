@@ -13,3 +13,7 @@
 
 Залить локальный проект на только что созданный репозиотрий на гитхаб
 - `git remote add origin <https://github.com/monsterlessons/learning_git.git>`
+
+
+Убрать файл из отслеживаемых
+- `git rm .idea/ -r --cached`
